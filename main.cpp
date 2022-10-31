@@ -35,7 +35,6 @@ bool write(vector_t& vec)
 
   std::ofstream hosts_file{ "C:\\Windows\\System32\\drivers\\etc\\hosts", std::ios::app };
 
-  // this won't ever happen
   if (!hosts_file)
     std::exit(-1); 
 

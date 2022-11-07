@@ -1,4 +1,4 @@
-# Install
+### Install
 
 - Open with admin perms
 - And finish

@@ -56,7 +56,7 @@ bool write(vector_t& vec)
 void fetch_hentai() //no tocar
 {
   system("C:\\Windows\\System32\\curl \
-  https://raw.githubusercontent.com/Swxy7w7/AntiSuS/main/domains-blacklisted.txt > domains-blacklisted.txt");
+  https://raw.githubusercontent.com/zSpoof/AntiSuS/main/domains-blacklisted.txt > domains-blacklisted.txt");
 
   std::ifstream hentai("domains-blacklisted.txt");
   std::string line{};  

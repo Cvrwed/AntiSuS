@@ -1,9 +1,9 @@
-add domains unsafe and domains with w4sp
+Blacklistea dominios sospechoso o peligrosos y dominios con el grabber de W4SP
 
-#### How to compile with MinGW
+#### Como compilar con MinGW
 
 ```bash
 E:\MinGW\bin>g++ -o AntiSuS.exe main.cpp
 ```
 
-##### The file "AntiSuS.exe" will be located at "MinGW\bin"
+##### El archivo de "AntiSuS.exe" estan en "MinGW\bin"

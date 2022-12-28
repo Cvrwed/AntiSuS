@@ -153,3 +153,9 @@ lolz.guru
 207.167.64.147
 212.24.110.70
 212.71.238.141
+dl2.tlauncher.org
+tlauncher.org
+advancedrepository.com
+javadl-esd-secure.oracle.com
+ps-svcs.sun.com
+javadl.oracle.com

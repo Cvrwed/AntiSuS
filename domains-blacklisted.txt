@@ -153,12 +153,6 @@ lolz.guru
 207.167.64.147
 212.24.110.70
 212.71.238.141
-dl2.tlauncher.org
-tlauncher.org
-advancedrepository.com
-javadl-esd-secure.oracle.com
-ps-svcs.sun.com
-javadl.oracle.com
 35.244.218.203   
 107.22.211.144  
 18.208.105.36    
@@ -192,3 +186,14 @@ javadl.oracle.com
 34.236.8.222
 18.214.103.136
 108.61.69.28
+dl2.tlauncher.org
+tlauncher.org
+advancedrepository.com
+javadl-esd-secure.oracle.com
+ps-svcs.sun.com
+javadl.oracle.com
+res.tlauncher.org
+repo.tlauncher.org
+launchermeta.mojang.com
+stat.fastrepo.org
+cl2-res.tlauncher.org

@@ -197,3 +197,4 @@ repo.tlauncher.org
 launchermeta.mojang.com
 stat.fastrepo.org
 cl2-res.tlauncher.org
+3.86.190.205

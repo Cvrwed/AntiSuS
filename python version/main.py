@@ -24,7 +24,7 @@ def main():
     try:
         hentai = Hentai("https://raw.githubusercontent.com/zEncrypte/AntiSuS/main/domains-blacklisted.txt")
         hentai.blacklist()
-        print("Finished blacklisting sites! Press any key to close")
+        input("Finished blacklisting sites! Press any key to close")
     except (PermissionError):
         exit()
     

@@ -8,7 +8,6 @@ chenchowasmokeclient.eviatelikesboys.wtf
 xmr-eu2.nanopool.org
 verble.rocks
 bade.aaskin.fr
-mojangassets.me
 uaery.top
 verble.nerdpol.ovh
 fapmasta.wtf
@@ -191,14 +190,9 @@ lolz.guru
 108.61.69.28
 dl2.tlauncher.org
 tlauncher.org
-advancedrepository.com
-javadl-esd-secure.oracle.com
 ps-svcs.sun.com
-javadl.oracle.com
 res.tlauncher.org
 repo.tlauncher.org
-launchermeta.mojang.com
-stat.fastrepo.org
 cl2-res.tlauncher.org
 3.86.190.205
 77.73.133.62

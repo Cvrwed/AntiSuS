@@ -2,7 +2,7 @@ Blacklistea dominios sospechoso o peligrosos y dominios con el grabber de W4SP
 
 #### Instala MinGW
 ```powershell
-https://www.mingw-w64.org/
+https://sourceforge.net/projects/mingw/
 ```
 #### Colocar
 ```bash

@@ -4,6 +4,8 @@ Blacklistea dominios sospechoso o peligrosos y dominios con el grabber de W4SP
 ```powershell
 https://sourceforge.net/projects/mingw/
 ```
+## Importante tienes que instalar con perms. de administrador
+
 #### Colocar
 ```bash
 g++ -o AntiSuS.exe main.cpp
